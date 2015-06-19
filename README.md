@@ -143,22 +143,3 @@ var flky = new Flickity( '.gallery', {
 
 By [Metafizzy](http://metafizzy.co)
 
-
-
-
-### Client js file
-
-```js
-Template.home.rendered = function () {
-	$('#carousel').slick({
-		dots: true,
-		arrows: true,
-		infinite: true,
-		autoplay: true,
-		autoplaySpeed: 2000,
-		speed: 500,
-		fade: true,
-		cssEase: 'linear'
-	});
-};
-```
