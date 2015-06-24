@@ -1,0 +1,3 @@
+[submodule "vendor/flickity"]
+	path = vendor/flickity
+	url = https://github.com/metafizzy/flickity.git
