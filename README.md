@@ -1,3 +1,6 @@
+http://stackoverflow.com/questions/10054011/git-submodule-not-pulling-files-in-submodules
+
+
 # Flickity JS Meteor wrapper
 
 _Touch, responsive, flickable galleries_
